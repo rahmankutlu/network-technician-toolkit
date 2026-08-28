@@ -1,0 +1,43 @@
+Network Technician Toolkit (NTT)
+Version 1.0.0
+
+Copyright (c) 2026 Abdurrahman KUTLU
+https://rahmankutlu.com  ·  info@rahmankutlu.com
+All rights reserved.
+
+PROPRIETARY SOFTWARE LICENSE
+
+This software and its source code are the property of Abdurrahman KUTLU.
+No open-source license is granted.
+
+You may:
+
+  - Download, install and run the published binaries on any number of machines
+    you own or administer, including in a commercial setting.
+  - Read the source code for evaluation, security review and interoperability.
+
+You may not, without prior written permission from Abdurrahman KUTLU
+(info@rahmankutlu.com):
+
+  - Redistribute, sell, sublicense or host this software or its source code.
+  - Create and distribute derivative works based on it.
+  - Remove or alter the copyright, attribution or licensing notices it carries.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+NTT is a diagnostic tool. It reads network state and, where you ask it to,
+sends probe traffic. Use it only on networks you are authorised to inspect.
+
+---
+
+THIRD-PARTY COMPONENTS
+
+NTT redistributes open-source components that carry their own licenses, listed
+in THIRD-PARTY-NOTICES.md. Those licenses govern those components and are not
+affected by the terms above.
